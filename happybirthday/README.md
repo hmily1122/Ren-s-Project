@@ -1,3 +1,3 @@
 # happybirthday
-帮基友做的，祝福她女朋友生日快乐
+老婆生日快乐，永远爱你!
 https://shibobo.github.io/happybirthday/
